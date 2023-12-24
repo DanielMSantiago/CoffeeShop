@@ -1,0 +1,82 @@
+header {
+    padding: 30px;
+    background-image: linear-gradient(to right, #F6D55C, #F10187, #5cebe2);
+    color: rgb(255, 255, 255);
+}
+
+.navbar {
+    background-color: rgba(199, 0, 133, 0.411);
+}
+
+.accordion-button {
+    background-color: #f7f7f7;
+    padding: 1%;
+}
+
+.accordion-body {
+    padding: 1.5%;
+}
+
+h1,
+h2,
+h3 {
+    font-family: "Lobster", cursive;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: rgb(103, 209, 230);
+}
+
+header h2 {
+    color: #cec8ff;
+}
+
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.card-header {
+    background-color: teal;
+    color: white;
+}
+
+.row-content {
+    padding: 50px 0;
+    border-bottom: 1px ridge;
+    min-height: 200px;
+}
+
+table {
+    border-style: none;
+}
+
+footer {
+    background-image: linear-gradient( rgba(92, 246, 246, 0.804), rgba(241, 1, 133, 0.427));
+    padding: 20px 0;
+}
+
+.carousel-caption {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.carousel {
+    border: solid #6835b5;
+}
+
+.aboutus {
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#aboutimage {
+    width: 250px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+}
